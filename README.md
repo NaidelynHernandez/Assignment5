@@ -1,4 +1,4 @@
-# Web Development Project 5 - *Weathere*
+# Web Development Project 5 - *Weather*
 
 Submitted by: **Nai H**
 
